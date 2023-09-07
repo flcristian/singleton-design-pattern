@@ -1,0 +1,15 @@
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\bin\Debug\net6.0\singleton-pattern.exe
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\bin\Debug\net6.0\singleton-pattern.deps.json
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\bin\Debug\net6.0\singleton-pattern.runtimeconfig.json
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\bin\Debug\net6.0\singleton-pattern.dll
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\bin\Debug\net6.0\singleton-pattern.pdb
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\obj\Debug\net6.0\singleton-pattern.csproj.AssemblyReference.cache
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\obj\Debug\net6.0\singleton-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\obj\Debug\net6.0\singleton-pattern.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\obj\Debug\net6.0\singleton-pattern.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\obj\Debug\net6.0\singleton-pattern.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\obj\Debug\net6.0\singleton-pattern.dll
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\obj\Debug\net6.0\refint\singleton-pattern.dll
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\obj\Debug\net6.0\singleton-pattern.pdb
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\obj\Debug\net6.0\singleton-pattern.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\singleton-pattern\singleton-pattern\obj\Debug\net6.0\ref\singleton-pattern.dll
